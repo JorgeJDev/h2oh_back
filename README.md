@@ -13,7 +13,10 @@ https://github.com/dorian-rose/tripulacion_front
 
 ````
 - https://h2ohback.onrender.com/
-```` 
+````
+### Postman Documentation
+###### https://documenter.getpostman.com/view/26092541/2s93m1ajr8
+
 ## Base de datos de entradas:
 
 - Obtener todas las entradas:
